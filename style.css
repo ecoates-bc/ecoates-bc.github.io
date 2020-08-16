@@ -79,3 +79,13 @@ nav {
     color: #404040;
     text-decoration: none;
 }
+
+.nav-button {
+    background-color: #404040;
+    color: lightgray;
+    border: none;
+}
+
+.nav-button:hover {
+    color: whitesmoke;
+}
