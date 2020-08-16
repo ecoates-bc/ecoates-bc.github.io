@@ -1,0 +1,79 @@
+body {
+    background-color: whitesmoke;
+}
+
+@font-face {
+    font-family: 'Comfortaa light';
+    src:url(Comfortaa-Light.ttf);
+}
+
+nav {
+    font-family: 'Comfortaa light';
+    background-color: #404040;
+    border-color: #404040;
+    box-shadow: 0 0 5px 1px grey;
+}
+
+.navbar {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.navbar-nav .active > .nav-link {
+    text-decoration: underline;
+    text-decoration-color: #17a2b8;
+    text-underline-offset: 5px;
+}
+
+.jumbotron {
+    box-shadow: 0 0 5px 1px lightgrey;
+}
+
+.hero {
+    font-family: 'Comfortaa light';
+}
+
+.headshot {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.content {
+    margin-top: 50px;
+}
+
+.links h2 {
+    font-family: 'Comfortaa light';
+}
+
+.about-section {
+    margin-bottom: 2rem;
+}
+
+.btn-toolbar .btn-group {
+    box-shadow: 0 0 5px 1px lightgrey;
+}
+
+.btn-toolbar svg {
+    margin-bottom: 2px;
+}
+
+.links .btn {
+    box-shadow: 0 0 5px 1px lightgrey;
+}
+
+.footer {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-family: 'Comfortaa light';
+}
+
+.footer a {
+    color: inherit;
+    transition: color 0.1s;
+}
+
+.footer a:hover {
+    color: #404040;
+    text-decoration: none;
+}
