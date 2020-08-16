@@ -33,11 +33,11 @@ nav {
     font-family: 'Comfortaa light';
 }
 
-.hero .bio {
+.content-link {
     color: #404040;
 }
 
-.hero .bio:hover {
+.content-link:hover {
     font-weight: bold;
 }
 
