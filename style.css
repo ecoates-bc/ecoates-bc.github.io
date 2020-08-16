@@ -38,6 +38,7 @@ nav {
 }
 
 .content-link:hover {
+    color: #404040;
     font-weight: bold;
 }
 
