@@ -33,6 +33,14 @@ nav {
     font-family: 'Comfortaa light';
 }
 
+.hero .bio {
+    color: #404040;
+}
+
+.hero .bio:hover {
+    font-weight: bold;
+}
+
 .headshot {
     width: 100%;
     border-radius: 10px;
